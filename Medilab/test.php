@@ -95,29 +95,29 @@
                         <ul>
                             <li><a href="history.php">ประวัติความเป็นมาโรงพยาบาล</a></li>
                             <li><a href="vision.php">วิสัยทัศน์ พันธกิจ ปรัชญา</a></li>
-                            <li><a href="">นโยบายหลักการบริหารงาน</a></li>
-                            <li><a href="#">นโยบายคุณภาพชีวิตในโรงพยาบาล</a></li>
+                            <li><a href="1">นโยบายหลักการบริหารงาน</a></li>
+                            <li><a href="1">นโยบายคุณภาพชีวิตในโรงพยาบาล</a></li>
                             <li><a href="structure.php">โครงสร้างองค์กร</a></li>
                             <li><a href="person.php">ทำเนียบผู้บริหาร</a></li>
-                            <li><a href="#">ทีมงานต่างๆในโรงพยาบาล</a></li>
+                            <li><a href="1">ทีมงานต่างๆในโรงพยาบาล</a></li>
                         </ul>
                     </li>
                     <li class="dropdown"><a href="#"><span>หน่วยงานภายใน</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="#">กลุ่มงานบริหารทั่วไป</a></li>
-                            <li><a href="#">กลุ่มงานประกันสุขภาพ</a></li>
-                            <li><a href="#">กลุ่มงานบริการทางการแพทย์</a></li>
-                            <li><a href="#">กลุ่มงานเวชปฏิบัติ</a></li>
-                            <li><a href="#">กลุ่มงานยุทธศาสตร์และการพัฒนา</a></li>
-                            <li><a href="#">กลุ่มงานคุณภาพ</a></li>
-                            <li><a href="#">กลุ่มงานพยาบาล</a></li>
-                            <li><a href="#">กลุ่มงานเทคโนโลยีสารสนเทศ</a></li>
-                            <li><a href="#">กลุ่มงานกายภาพบำบัด</a></li>
+                            <li><a href="1">กลุ่มงานบริหารทั่วไป</a></li>
+                            <li><a href="1">กลุ่มงานประกันสุขภาพ</a></li>
+                            <li><a href="1">กลุ่มงานบริการทางการแพทย์</a></li>
+                            <li><a href="1">กลุ่มงานเวชปฏิบัติ</a></li>
+                            <li><a href="1">กลุ่มงานยุทธศาสตร์และการพัฒนา</a></li>
+                            <li><a href="1">กลุ่มงานคุณภาพ</a></li>
+                            <li><a href="1">กลุ่มงานพยาบาล</a></li>
+                            <li><a href="1">กลุ่มงานเทคโนโลยีสารสนเทศ</a></li>
+                            <li><a href="1">กลุ่มงานกายภาพบำบัด</a></li>
 
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="#5">ดาวน์โหลด</a></li>
-                    <li><a class="nav-link scrollto" href="#5">ร้องเรียน/ร้องทุกข์</a></li>
+                    <li><a class="nav-link scrollto" href="15">ดาวน์โหลด</a></li>
+                    <li><a class="nav-link scrollto" href="15">ร้องเรียน/ร้องทุกข์</a></li>
                     <li><a class="nav-link scrollto" href="contact.php">ติดต่อสอบถาม</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
