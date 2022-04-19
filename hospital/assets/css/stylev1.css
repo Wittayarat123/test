@@ -1,0 +1,21 @@
+body{
+  font-family: 'Prompt', sans-serif;
+}
+h4{
+  text-align: center;
+  font-size: 1.25em;
+  font-family: 'Prompt', sans-serif;
+  font-weight: bold;  
+}
+h5{
+  text-align: left;
+  font-size: 1.20em;
+  font-family: 'Prompt', sans-serif;
+  font-weight: bold;  
+}
+.worktable,h3{
+  font-family: 'Prompt', sans-serif;
+}
+.contact,h2{
+  font-family: 'Prompt', sans-serif;
+}
